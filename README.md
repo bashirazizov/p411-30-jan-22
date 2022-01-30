@@ -12,5 +12,6 @@ https://www.w3schools.com/sql/sql_like.asp
 
 https://www.w3schools.com/sql/sql_create_db.asp
 
-### Tapşırıq
+### Tapşırıq:
 
+Zip-dəki frontendin index səhifəsinin backend-ini yazın. Databaza ilə əlaqələndirin.
